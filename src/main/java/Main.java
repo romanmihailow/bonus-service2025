@@ -8,6 +8,7 @@ public class Main {
     long bonus = service.calculate(amount, registered);
 
     System.out.println(bonus);
+    System.out.println("test id2 #2");
   }
 }
 
